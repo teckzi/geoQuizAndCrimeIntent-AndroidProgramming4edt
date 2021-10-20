@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout-land/activity_geo_quiz.xml" value="0.46197916666666666" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout-land/activity_main.xml" value="0.46197916666666666" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/activity_cheat.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/activity_criminal_intent.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/activity_geo_quiz.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/empty_list_view.xml" value="0.3578125" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/fragment_crime.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/fragment_crime_list.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/list_item_crime.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/list_item_crime_two.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/layout/photo_dialog_fragment.xml" value="0.3625" />
+        <entry key="..\:/GitHub/SecondBookTests/app/src/main/res/menu/fragment_crime_list.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SecondBookTests</string>\
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than
+        the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea
+        and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river
+        in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
+        freshwater lake.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="prev_button">Prev</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="new_crime">New Crime</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_suspect">Choose Suspect</string>
+    <string name="send_crime_report">Send crime report</string>
+    <string name="crime_report">%1$s!
+    The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+</resources>
